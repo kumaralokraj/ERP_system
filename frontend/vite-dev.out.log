@@ -1,0 +1,20 @@
+
+> frontend@0.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v7.3.1[39m  [2mready in [0m[1m501[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m4:12:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:12:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:12:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:13:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:14:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:14:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:16:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:16:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:17:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:17:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:18:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
+[2m4:19:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/admin/pages/StudentFeeProfile.jsx, /src/index.css[22m
