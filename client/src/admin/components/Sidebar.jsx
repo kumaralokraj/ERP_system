@@ -146,7 +146,7 @@ const Sidebar = () => {
         to="/admin"
         className="flex items-center gap-2 m-4 justify-center md:justify-start"
       >
-        <img src="/logo.png" className="w-8 h-8" />
+        <img src="https://ggi.ac.in/wp-content/uploads/2022/05/ggi-logo-1024x718.jpg" className="w-8 h-8" />
         <span className="font-bold hidden md:block">
           Gulzar Group of institues
         </span>
